@@ -7,12 +7,12 @@ Problem: To predict the score of a student based on their study hours
 Though dataset is small I used linear regression under sklearn to make the model
 I used seaborn and matplotlib libraries to visulaize the data.
 
-Accuracy score is 0.9696126973726618
-Mean Absolute Error: 4.011912571964117
+Accuracy score is 0.9623277037513498
+Mean Absolute Error: 3.950851765770328
 
 User input 1
 No of Hours = 9.25
-Predicted Score = 93.28923969
+Predicted Score = 92.99008653
 user input 2
-No of Hours = 8.23
-Predicted Score = 83.20718018
+No of Hours = 2.5
+Predicted Score = 26.558846
